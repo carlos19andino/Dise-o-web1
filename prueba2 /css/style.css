@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+}
+header{
+	background-color: #000;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+
+#hero{
+	padding: 300px;
+	background-image: url("../img/bg-hero.jpg");
+	background-size: cover;
+	background-position: top center;
+	color: #FFF;
+}
+
+
+#welcome{
+	align-content: center;
+	text-align: center;
+	padding: 100px;
+}
+
+#welcome h1 {
+	margin-top: 10px;
+    border-bottom: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #4a9c4a;
+    display: inline-block;
+    padding-bottom: 50px;
+	
+	
+
+	
+}
+
+#features {
+	padding: 100px;
+}
+
+#features h2 {
+	font-size: 21px;
+}
+
+.la-money-bill {
+	font-size: 48px;
+	background-color: #4a9c4a;
+	border-radius: 100%;
+	padding: 10px;
+	margin: 0px 10px;
+	color: #FFF;
+}
+
+.la-desktop {
+	font-size: 48px;
+	background-color: #4a9c4a;
+	border-radius: 100%;
+	padding: 10px;
+	margin: 0px 10px;
+	color: #FFF;
+}
+
+.la-chart-bar {
+	font-size: 48px;
+	background-color: #4a9c4a;
+	border-radius: 100%;
+	padding: 10px;
+	margin: 0px 10px;
+	color: #FFF;
+}
+
+footer {
+	background-color: #191919;
+	color: #AAAAAA;
+	padding: 50px;
+}
+
+footer a {
+	color: #FFF;
+}
